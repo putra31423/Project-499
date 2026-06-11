@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://waveriders.example.com/sitemap.xml
